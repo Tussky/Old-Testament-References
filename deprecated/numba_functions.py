@@ -21,4 +21,3 @@ def _find_matching_ngrams(left, right, min_n=5):
         lidx += 1
     found = np.array(found_values)
     return found[:, 0], found[:, 1], found[:, 2]
-
