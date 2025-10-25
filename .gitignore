@@ -219,3 +219,4 @@ __marimo__/
 /pickles
 word2vec.model
 samples.csv
+similarities.pickle
