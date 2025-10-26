@@ -13,3 +13,9 @@ def load_sept():
 
 def load_similarities():
     return loader("similarities")
+
+def load_references():
+    return loader("references")
+
+def load_strong():
+    return loader("strongs")
