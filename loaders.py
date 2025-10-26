@@ -13,3 +13,6 @@ def load_sept():
 
 def load_similarities():
     return loader("similarities")
+
+def load_references_naive():
+    return loader("references-naive.pickle")
