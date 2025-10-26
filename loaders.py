@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy as np 
+
 
 def loader(name):
     return pd.read_pickle(f"./pickles/{name}.pickle")
@@ -8,14 +8,22 @@ def loader(name):
 def load_tisch():
     return loader("tisch")
 
+
 def load_sept():
     return loader("sept")
+
 
 def load_similarities():
     return loader("similarities")
 
+
 def load_references():
     return loader("references")
 
+
 def load_strong():
     return loader("strongs")
+
+
+def load_references_naive():
+    return loader("references-naive.pickle")
