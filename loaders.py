@@ -30,3 +30,12 @@ def load_references_naive():
 
 def load_munged_references():
     return loader("references2")
+
+def load_bible():
+    return loader("bible")
+
+def load_strongs():
+    return loader("strongs")
+
+def load_rmac():
+    return loader("rmac_df")
