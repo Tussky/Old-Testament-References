@@ -29,4 +29,4 @@ def load_references_naive():
     return loader("references-naive")
 
 def load_munged_references():
-    return loader("munged_references")
+    return loader("references2")
