@@ -1,29 +1,52 @@
 # Old Testament References
 ## File structure:
  - depricated
+
    Contains old notebook files we're no longer using. Mostly word2vec stuff
+
  - Isaac-Analysis.ipynb
+
    Code Isaac wrote, mostly to generate information for the presentation
+
  - loaders.py
+
    Utility functions to load the pickles we care about, so we don't have to keep typing out the full path every time
+
  - make-stuff-for-slides.ipynb
+
    More code to generate information for the presentation. This is seperate from Isaac-Analysis.ipynb mostly so Wes and Isaac wouldn't be committing to the same file all the time
+
  - old-testament-use.ipynb
+
    Cluster New Testament books by how the use the Old, and Old Testament books by how they're used in the New. Output used in research paper
+
  - reference-analysis.ipynb
+
    Takes references-naive.pickle, does merging and munging, and produces references.pickle and references2.pickle
+
  - reference_search.ipynb
+
    Uses all available cores to compare 5-grams in NT to 5-grams in OT, saves to references-naive.ipynb. Takes 8-12 hours to run
+
  - references-naive.pickle
+
    Contains saved references, unmerged
+
  - requirements.txt
+
    run `pip install -r requirements.txt` in default environment to install requirements
+
  - rmac_df
+
    pickle file containing RMAC interpretations
+
  - SEPTUAGINT.xml
  - TSICHENDORF.xml
+
  - strongs-dictionary.xhtml
+
  - themes-clustering.ipynb
+
    Attempts to cluster Old Testament verses by word use
 
 ## Usage
