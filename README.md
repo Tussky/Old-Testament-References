@@ -62,3 +62,9 @@ First, `pip install -r requirements.txt` in a new virtual environment. Then run 
  - https://chatgpt.com/share/690d1ea8-5cb4-8002-8cee-0c36d9ce0be5
  - https://chatgpt.com/share/690d1eb3-f400-8002-87b8-ef2946ee4a5c
  - https://chatgpt.com/share/690d1e38-57dc-8002-8c21-46adb7162748
+ - https://chatgpt.com/share/692725c0-a444-8002-aa79-cac58a54e7ab
+ - https://chatgpt.com/share/692725d3-1f40-8002-a06a-b4e26ad91700
+ - https://chatgpt.com/share/692725e5-97f0-8002-91ba-d56bb6bb873a (not used)
+ - https://chatgpt.com/share/692725f9-9fe8-8002-a814-9f87c9526a49
+ - https://chatgpt.com/share/6927260a-a29c-8002-b296-402a393ea4ae (not used)
+ - [conversation with Gemini](gemini-conversation.md)
